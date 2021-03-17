@@ -13,4 +13,4 @@ post_build:
     - mvn package
 artifacts:
   files:
-    - target/testfunction-1.0.0-jar-with-dependencies.jar
+    - target/spring-boot-aws-code-pipeline-0.0.1-SNAPSHOT.jar
